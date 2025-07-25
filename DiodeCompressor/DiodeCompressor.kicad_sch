@@ -1,0 +1,51 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "04d5f0a3-6564-450b-8ccd-ccc6937251e4")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 25.146 25.4)
+		(size 40.894 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1acf7cec-2d72-4354-b003-e8a889932664")
+		(property "Sheetname" "Analog"
+			(at 25.146 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Analog.kicad_sch"
+			(at 25.146 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DiodeCompressor"
+				(path "/04d5f0a3-6564-450b-8ccd-ccc6937251e4"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
