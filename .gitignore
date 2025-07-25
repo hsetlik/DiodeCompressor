@@ -3,3 +3,6 @@
 *.net
 DiodeCompressor/*-backups/
 DiodeCompressor/*.lck
+Firmware/*.ld
+Firmware/Debug
+Firmware/Drivers

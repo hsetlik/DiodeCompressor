@@ -43,6 +43,44 @@
 			)
 		)
 	)
+	(sheet
+		(at 71.12 25.4)
+		(size 48.895 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6efb2de5-b4f8-47d6-b2d0-17409be596b8")
+		(property "Sheetname" "Digital"
+			(at 71.12 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Digital.kicad_sch"
+			(at 71.12 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DiodeCompressor"
+				(path "/04d5f0a3-6564-450b-8ccd-ccc6937251e4"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
